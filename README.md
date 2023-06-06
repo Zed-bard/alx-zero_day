@@ -1,1 +1,1 @@
-0x03-git file is non empty
+How to be up to date in git
